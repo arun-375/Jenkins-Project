@@ -1,5 +1,4 @@
 # Jenkins-Project
-jenkins pipeline
 
 Here's a **complete Jenkins pipeline** that includes **automated testing**, **code analysis**, **artifact build**, and optionally **deployment**—all within a CI/CD setup.
 
